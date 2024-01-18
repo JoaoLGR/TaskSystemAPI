@@ -19,5 +19,4 @@ TaskSystemAPI é uma API RESTful projetada para gerenciar um sistema de tarefas.
 
 ```bash
 git clone https://github.com/JoaoLGR/TaskSystemAPI.git
-cd TaskSystemAPI
 ```
